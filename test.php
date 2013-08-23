@@ -1,5 +1,5 @@
 <?php
 
-proverka
+proverka1
 
 ?>
